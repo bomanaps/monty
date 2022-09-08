@@ -1,0 +1,3 @@
+swap
+push 1
+
